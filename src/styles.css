@@ -1,0 +1,10 @@
+:root { --container: 1100px; --px: 16px; }
+
+body{
+    background-color: aliceblue;
+}
+
+* { box-sizing: border-box; }
+img { max-width: 100%; display: block; }
+
+
